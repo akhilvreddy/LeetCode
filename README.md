@@ -1,2 +1,3 @@
-# LeetCode
-All the questions that I have done.
+# LeetCode 😖
+
+All the questions I've done (no set language)
