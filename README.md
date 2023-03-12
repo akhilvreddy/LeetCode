@@ -1,3 +1,5 @@
-# LeetCode
-All the questions that I have done (in python only).
+# Leetcode 😖
 
+All the questions I've done (no set language)
+
+successfully cloned on mac btw!
