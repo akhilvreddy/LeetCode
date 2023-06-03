@@ -1,3 +1,3 @@
-# Leetcode 😖
+# Leetcode
 
-All the questions I've done (no set language).
+All the questions I've done (Python).
